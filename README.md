@@ -1,10 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Manish Bisen</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisen-del&label=Profile%20views&color=0e75b6&style=flat" alt="bisen-del" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisen-del" alt="bisen-del" /></a> </p>
 
 - 🔭 I’m currently working on **Task Manager**
 
@@ -19,6 +18,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wzLZBjAoPvG-f6gcGZA_JYHXQK-LoIVM/view?usp=sharing](https://drive.google.com/file/d/1wzLZBjAoPvG-f6gcGZA_JYHXQK-LoIVM/view?usp=sharing)
 
 - ⚡ Fun fact **Cooking makes me Happy**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisen-del" alt="bisen-del" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
