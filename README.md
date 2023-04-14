@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Bisen</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
+<img align="right" alt="coding" width="300" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisen-del&label=Profile%20views&color=0e75b6&style=flat" alt="bisen-del" /> </p>
 
